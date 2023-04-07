@@ -1,3 +1,5 @@
+Действующий проект доступен по адресу http://rcstyle.pythonanywhere.com/
+
 <b>Запуск проекта</b>
 
 1. git clone https://github.com/Endorfin86/Menu.git
