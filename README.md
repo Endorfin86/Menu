@@ -1,4 +1,5 @@
-Действующий проект доступен по адресу http://rcstyle.pythonanywhere.com/
+Действующий проект доступен по адресу <b>http://rcstyle.pythonanywhere.com</b><br>
+<i>Логин/пароль от админпанели: <b>root/1234</b></i>
 
 <b>Запуск проекта</b>
 
